@@ -1,4 +1,4 @@
-# API-Developement using Dgango Rest Framework & Django JWT Auth 
+# API-Development using Dgango Rest Framework & Django JWT Auth 
 This is a project that demonstrates how you could implement json web token authentication 
 
 In order to test out this project, follow these steps:
